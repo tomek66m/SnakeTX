@@ -1,0 +1,83 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Clear SFML 2k8.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Game.cpp
+E:\DO ZGRANIA Z C\Programowanie\snake sfml\Klient\SnakeTX klient\Clear SFML 2k8\Game.cpp(8,127): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+E:\DO ZGRANIA Z C\Programowanie\snake sfml\Klient\SnakeTX klient\Clear SFML 2k8\Game.cpp(8,93): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+E:\DO ZGRANIA Z C\Programowanie\snake sfml\Klient\SnakeTX klient\Clear SFML 2k8\Game.cpp(8,63): warning C4244: "argument": konwersja z "const T" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+E:\DO ZGRANIA Z C\Programowanie\snake sfml\Klient\SnakeTX klient\Clear SFML 2k8\Game.cpp(8,37): warning C4244: "argument": konwersja z "const T" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+E:\DO ZGRANIA Z C\Programowanie\snake sfml\Klient\SnakeTX klient\Clear SFML 2k8\Game.cpp(9,120): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+E:\DO ZGRANIA Z C\Programowanie\snake sfml\Klient\SnakeTX klient\Clear SFML 2k8\Game.cpp(9,86): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+E:\DO ZGRANIA Z C\Programowanie\snake sfml\Klient\SnakeTX klient\Clear SFML 2k8\Game.cpp(9,56): warning C4244: "argument": konwersja z "const T" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+E:\DO ZGRANIA Z C\Programowanie\snake sfml\Klient\SnakeTX klient\Clear SFML 2k8\Game.cpp(9,30): warning C4244: "argument": konwersja z "const T" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+E:\DO ZGRANIA Z C\Programowanie\snake sfml\Klient\SnakeTX klient\Clear SFML 2k8\Game.cpp(196,40): warning C4305: "argument": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+E:\DO ZGRANIA Z C\Programowanie\snake sfml\Klient\SnakeTX klient\Clear SFML 2k8\Game.cpp(229,31): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+E:\DO ZGRANIA Z C\Programowanie\snake sfml\Klient\SnakeTX klient\Clear SFML 2k8\Game.cpp(282,57): warning C4305: "-=": obcięcie z "double" do "float"
+E:\DO ZGRANIA Z C\Programowanie\snake sfml\Klient\SnakeTX klient\Clear SFML 2k8\Game.cpp(222,8): warning C4101: "_endTime": lokalna zmienna, do której nie istnieje odwołanie
+  Clear SFML 2k8.vcxproj -> E:\DO ZGRANIA Z C\Programowanie\snake sfml\Klient\SnakeTX klient\Debug\SnakeTX.exe

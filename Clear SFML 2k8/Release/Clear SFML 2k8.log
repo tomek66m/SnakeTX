@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: Katalog pośredni (Release\) zawiera pliki udostępnione z innego projektu (Clear SFML 2k8.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  Clear SFML 2k8.cpp
+  Trwa generowanie kodu
+  1 of 344 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Clear SFML 2k8.vcxproj -> C:\Users\Tomek\Desktop\snake sfml\Czysty sfml\Clear SFML 2k8\Release\SnakeTX.exe
